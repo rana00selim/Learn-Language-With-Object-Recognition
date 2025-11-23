@@ -1,0 +1,91 @@
+???
+persona
+bicicleta
+auto
+motocicleta
+avión
+autobús
+tren
+camión
+bote
+semáforo
+boca de incendio
+???
+señal de stop
+parquímetro
+banco
+pájaro
+gato
+perro
+caballo
+oveja
+vaca
+elefante
+oso
+cebra
+jirafa
+???
+mochila
+paraguas
+???
+???
+bolso
+atar
+maleta
+disco volador
+esquís
+snowboard
+pelota de deportes
+cometa
+bate de béisbol
+guante de béisbol
+patineta
+tabla de surf
+raqueta de tenis
+botella
+???
+Copa de vino
+taza
+tenedor
+cuchillo
+cuchara
+bol
+banana
+manzana
+sándwich
+naranja
+brócoli
+zanahoria
+Hot dog
+pizza
+rosquilla
+pastel
+silla
+sofá
+planta en maceta
+cama
+???
+comedor
+???
+???
+baño
+???
+televisor
+computadora portátil
+ratón
+remoto
+teclado
+Teléfono móvil
+microonda
+horno
+tostadora
+hundir
+refrigerador
+???
+libro
+reloj
+florero
+tijeras
+oso de peluche
+Secadora de pelo
+cepillo de dientes
