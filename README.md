@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Language Learning App with Object Recognition 📸🗣️
 
 ![Project Poster](19COMP1009_Poster.jpg)
@@ -71,10 +72,15 @@ This project was developed as a senior thesis project at FMV Işık University, 
 * [cite_start]**Developer:** Rana Selim [cite: 12]
 * **Supervisor:** Asst. Prof. Rahim Dehkharghani
 =======
+=======
+>>>>>>> 2694c38bd681159e5a37e586e1159057c80fe9fe
 # object_detection
 ## Machine Learning powered Android Application
 This application can detect objects in any of the three ways:
   * Image choosen from Gallery
   * From image taken within the App
   * Real time in video stream
+<<<<<<< HEAD
 >>>>>>> 2694c38 (Initial commit)
+=======
+>>>>>>> 2694c38bd681159e5a37e586e1159057c80fe9fe
