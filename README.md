@@ -6,8 +6,7 @@
 
 > A real-time language learning assistant that uses on-device computer vision to identify objects and teach you their names in 15 different languages.
 
-<img src="19COMP1009_Poster.png" width="200" />
----
+<img src="19COMP1009_Poster.png" width="400" />
 
 ## 📖 Overview
 
